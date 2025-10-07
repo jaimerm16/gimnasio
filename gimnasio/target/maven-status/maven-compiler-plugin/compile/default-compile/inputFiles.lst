@@ -1,0 +1,13 @@
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/dao/DataInitializer.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/dao/DatabaseConnectionManager.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/dao/PagoDAO.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/dao/PagoDAOImpl.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/dao/SocioDAO.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/dao/SocioDAOImpl.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/entity/Pago.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/entity/Socio.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/listeners/AppContextListener.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/servlets/LanguageServlet.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/servlets/PagoServlet.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/servlets/SocioServlet.java
+/home/usuario-t/IdeaProjects/gimnasio/src/main/java/org/iesalixar/daw2/JaimeRamirezMuela/servlets/UserServlet.java
